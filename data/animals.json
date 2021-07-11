@@ -128,6 +128,26 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Donny",
+      "species": "Dolphin",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Katy",
+      "species": "Kangaroo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
     }
   ]
 }
